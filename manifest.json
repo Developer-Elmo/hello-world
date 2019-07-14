@@ -3,7 +3,7 @@
 "short_name": "only_manifest",
 "description": "dummy application to demo manifest without SW",
 "start_url": "/index.html",
-"scope: ".",
+"scope": ".",
 "background_color": "#EEE",
 "theme_color": "#4A148C",
 "display": "standalone",
