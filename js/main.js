@@ -3,6 +3,6 @@ window.onload = () => {
 
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker
-             .register('./sw.js');
+             .register('https://developer-elmo.github.io/hello-world/sw.js');
   }
 }
