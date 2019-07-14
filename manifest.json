@@ -1,6 +1,6 @@
 {
 "name": "Only Manifest",
-"short_name: "only_manifest",
+"short_name": "only_manifest",
 "description": "dummy application to demo manifest without SW",
 "start_url": "/index.html",
 "scope: ".",
