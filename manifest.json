@@ -8,7 +8,7 @@
 "theme_color": "#4A148C",
 "display": "standalone",
 "orientation": "portrait-primary",
-"dir: "ltr",
+"dir": "ltr",
 "lang": "en-US",
 "related_applications: [
   {
